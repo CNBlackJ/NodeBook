@@ -19,6 +19,7 @@
     * [Test](base-knowledge/test.md)
     * [Security](base-knowledge/security.md)
     * [Git](base-knowledge/git.md)
+    * [CommonJS](base-knowledge/commonjs.md)
 * [Lodash.js](lodash.js/README.md)
 * [GraphQL.js](graphql.js/README.md)
 * [Kong.js](kong.js/README.md)
