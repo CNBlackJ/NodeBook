@@ -19,6 +19,7 @@
     * [Test](base-knowledge/test.md)
     * [Security](base-knowledge/security.md)
     * [Git](base-knowledge/git.md)
+    * [Makefile](base-knowledge/makefile.md)
     * [CommonJS](base-knowledge/commonjs.md)
 * [Npm](npm/README.md)
 * [Lodash.js](lodash.js/README.md)
