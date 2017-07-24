@@ -7,3 +7,9 @@
 - 查看git的操作日志
   - 在git操作的时候，如果对之前的操作想反悔，我们可以通过查看操作日志的方式找到需要回滚的操作记录
   - `git reflog` 查看操作日志
+
+- release tag
+	- create: `git tag <tag_name>`
+	- update to remote: `git push origin <tag_name>` | `git push tags`
+	- delete local tag: `git -d <tag_name>`
+	- delete remote tag: `git push --delete origin <tag_name>`
