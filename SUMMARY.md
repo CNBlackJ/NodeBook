@@ -21,6 +21,7 @@
     * [Git](base-knowledge/git.md)
     * [Makefile](base-knowledge/makefile.md)
     * [CommonJS](base-knowledge/commonjs.md)
+    * [Docker](base-knowledge/docker.md)
 * [Npm](npm/README.md)
 * [Lodash.js](lodash.js/README.md)
 * [GraphQL.js](graphql.js/README.md)
