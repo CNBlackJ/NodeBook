@@ -23,6 +23,8 @@
     * [CommonJS](base-knowledge/commonjs.md)
     * [Docker](base-knowledge/docker.md)
 * [Npm](npm/README.md)
+* [Mongo](mongo/README.md)
+    * [Query](mongo/query.md)
 * [Lodash.js](lodash.js/README.md)
 * [GraphQL.js](graphql.js/README.md)
 * [Kong.js](kong.js/README.md)
