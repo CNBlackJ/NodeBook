@@ -11,3 +11,10 @@
   - dangling image: REPOSITORY = <none> & TAG = <none>
   - `docker images -f dangling=true`
   - 批量删除dangling image: `docker rmi $(docker images -q -f dangling=true)`
+
+
+### 挂载数据卷
+
+- `docker run -it -v $(pwd):/var/local/app ubuntu`
+  - `-v source:target`, source&target：absolute path(绝对路径)
+ 
