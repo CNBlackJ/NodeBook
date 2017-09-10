@@ -89,3 +89,17 @@ Animal === Pet // true
 |--|--|--|--|
 |Pet|引用指针|--->|Object{name: 'dog',color:'red'}|
 |Animal|引用指针|___⬆||
+
+### 类型判断
+
+Node.js里面可以用`==`和`===`来比较是否相等，二者虽然都可以比较，但是还是有很大区别的。
+- `==`: 一般相等（类型一致化之后再进行比较）
+- `===`: 严格相等（比较类型和值）
+比如：
+```javascript
+undefined == null  // true
+undefined === null  // false
+1 == '1' // true
+1 === '1' // false
+```
+更多详细信息：[mozilla](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Equality_comparisons_and_sameness)
